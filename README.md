@@ -242,55 +242,6 @@ Built an AI solution for the analysis of plyometric training in football, from v
 
 ---
 
-## ⚔️ Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Mayssae354/">
-  <img src="https://img.shields.io/badge/LeetCode-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="40" />
-</a>
-&nbsp;
-<a href="https://www.geeksforgeeks.org/user/Mayssae354/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="40" />
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/Mayssae354">
-  <img src="https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="40" />
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/mayssae354">
-  <img src="https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="40" />
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mayssae354&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayssae354&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=10" height="180" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Mayssae354&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=6366F1&dates=8B949E" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mayssae354&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
